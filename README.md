@@ -11,5 +11,5 @@ Năm 2016, Home Depot mong muốn các Kagglers giúp họ cải thiện trải 
 # Các file trong git
 Các tệp và thư mục trong git này bao gồm:
 - File chứa code ML-final-pj.ipynb
-- Các file chứa dữ liệu .csv (bao gồm dữ liệu cuộc thi cung cấp và dữ liệu ghi ra lưu lại trong quá trình cài đặt, xử lý dữ liệu)
+- Các file chứa dữ liệu .csv (bao gồm dữ liệu cuộc thi cung cấp và dữ liệu ghi ra lưu lại trong quá trình cài đặt, xử lý dữ liệu) (thiếu file attributes và descriptions do kích thước quá lớn khó đẩy lên git. Dữ liệu có thể được tìm thấy ở https://www.kaggle.com/c/home-depot-product-search-relevance/data)
 - Thư mục model chứa model đã được huấn luyện và lưu 
