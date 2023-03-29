@@ -14,4 +14,5 @@ Các tệp và thư mục trong git này bao gồm:
 - Các file chứa dữ liệu .csv (bao gồm dữ liệu cuộc thi cung cấp và dữ liệu ghi ra lưu lại trong quá trình cài đặt, xử lý dữ liệu) (thiếu file attributes và descriptions do kích thước quá lớn khó đẩy lên git. Dữ liệu có thể được tìm thấy ở https://www.kaggle.com/c/home-depot-product-search-relevance/data) (thiếu một số file tạo ra trong quá trình huấn luyện do kích thước lớn)
 - Thư mục models chứa  model đã được huấn luyện và lưu 
 
-# Report: https://forest-paste-59e.notion.site/Final-project-080432d5bcbf413bb09c26aed4023b12
+# Report: 
+https://forest-paste-59e.notion.site/Final-project-080432d5bcbf413bb09c26aed4023b12
